@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing something new ...
 - 🌱 I’m currently learning how to do, what to do, when to do.
 - 💞️ I’m looking to collaborate on improvement in my projects.
-- 📫 How to reach me, i will tell you when i found out.
+- 📫 How to reach me, I will tell you when i find out.
 - ⚡ Fun fact: 1/0
 
 <!---
