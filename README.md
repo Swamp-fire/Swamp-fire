@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swamp-fire. Nice to meet you
+- 👋 Hi, I’m @Swamp-fire. Nice to meet you.
 - 👀 I’m interested in doing something new ...
 - 🌱 I’m currently learning how to do, what to do, when to do.
 - 💞️ I’m looking to collaborate on improvement in projects
